@@ -11,10 +11,10 @@ Marvel app uses Api from them, recollect all characters and they details.
 ![Test](/Marvel_4.png)
 
 <p align="left">
-<img src="/marvel1.png" alt="Marvel1" />
-<img src="https://github.com/Andruxa7/MarvelApp/blob/main/marvel2.png" alt="Marvel2" />
-<img src="/images/marvel3.png" alt="Marvel3" />
-<img src="/images/marvel4.png" alt="Marvel4" />
+<img src="https://github.com/Andruxa7/MarvelApp/blob/main/marvel1.png" alt="Marvel1" width="200"/>
+<img src="https://github.com/Andruxa7/MarvelApp/blob/main/marvel2.png" alt="Marvel2" width="200"/>
+<img src="https://github.com/Andruxa7/MarvelApp/blob/main/marvel3.png" alt="Marvel3" width="200"/>
+<img src="https://github.com/Andruxa7/MarvelApp/blob/main/marvel4.png" alt="Marvel4" width="200"/>
 </p>
 
 **Tech Used**
