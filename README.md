@@ -6,6 +6,9 @@ Marvel app uses Api from them, recollect all characters and they details.
 **App screenshots:**
 
 ![Test](/marvel1.png)
+![Test](/Marvel_2.png)
+![Test](/Marvel_3.png)
+![Test](/Marvel_4.png)
 
 <p align="left">
 <img src="/marvel1.png" alt="Marvel1" />
